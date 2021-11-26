@@ -1,7 +1,7 @@
 # Kiire-node-on-Ubuntu-Server
 *Install a node for Kiire on Ubuntu Server 18.04 with the following tutorial*
 
-Update your Ubuntu server with the following command:
+**Update your Ubuntu server with the following command:**
 
 sudo apt-get update && sudo apt-get upgrade -y
 
