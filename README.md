@@ -23,7 +23,7 @@ sudo apt-get update && sudo apt-get install libdb4.8-dev libdb4.8++-dev -y
 
 **Download the Linux daemon for your wallet with the following command:**
 
-wget "https://github.com/kiire-org/Linux-daemon/raw/main/kiire-daemon-linux.tar.gz" -O kiire-daemon-linux.tar.gz
+wget "https://github.com/kiire-org/Kiire-Linux-daemon/raw/main/kiire-daemon-linux.tar.gz" -O kiire-daemon-linux.tar.gz
 
 **Extract the tar file with the following command:**
 
@@ -31,7 +31,7 @@ tar -xzvf kiire-daemon-linux.tar.gz
 
 **Download the Linux tools for your wallet with the following command:**
 
-wget "https://github.com/kiire-org/Linux-wallet/raw/main/kiire-qt-linux.tar.gz" -O kiire-qt-linux.tar.gz
+wget "https://github.com/kiire-org/Kiire-Linux-wallet/raw/main/kiire-qt-linux.tar.gz" -O kiire-qt-linux.tar.gz
 
 **Extract the tar file with the following command:**
 
